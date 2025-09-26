@@ -28,6 +28,7 @@ Using Cabal
 bash
 cabal update
 cabal build
+
 Usage
 
 Basic Operations
