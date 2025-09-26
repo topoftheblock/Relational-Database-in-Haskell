@@ -20,7 +20,7 @@ A functional, type-safe in-memory database implemented in Haskell featuring:
 ### Using Stack
 
 ```bash
-git clone https://github.com/your-username/haskell-database
+git clone https://github.com/topoftheblock/relational-database-in-haskell
 cd haskell-database
 stack build
 Using Cabal
